@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "agileqatester/sample-netcore"
+    "repository": "edwardsdl/sample-netcore"
   },
   "deploy": {
     "containerPort": 5000
